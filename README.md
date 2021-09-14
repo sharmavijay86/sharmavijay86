@@ -7,12 +7,13 @@ Consultant and architect in Kubernetes, DevOps and public cloud (AWS & Azure). M
  
 **Currently I am working as ...**
 
-- <div>
+ - <div>
 I am working in a very good MNC company. I am playing a role of technical team lead and individual contributor both, within the team. i am part of all major team building activities, to project on-boarding to product development. I am leading technical the group innovation lab as well. Extensive working in kubernetes, openshift devops infra as a code product development project on-boarding and solutioning. Some of my major contributions as solutioning part is to evolve kubernetes as a service product development for both onprem and public cloud.
 I am technically very good in logical designing and solutioning as well as troubleshooting. i have good knowledge in kubernetes, docker terraform ansible, cicd , scm, openshift, virtulization micro-services and public cloud, all three public but extensively in aws and azure.
 You can find few of my git repo at: github.com/sharmavijay86
   </div>
 **Technologies i am working on ...** 
+
 - <div>
 Operating systems :- Redhat, Ubuntu, Centos, PhotonOS, CoreOS.
 Tools : Docker, Kubernetes, Openshift, GIT, Jenkins, Nagios, GitLab. Services : OpenLdap, DNS, DHCP, nginx, apache, multipath, LVM, network, kernel.
