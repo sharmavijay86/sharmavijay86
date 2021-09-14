@@ -49,7 +49,7 @@ Consultent
    [![Instagram Badge](https://img.shields.io/badge/-@sharmavijay86-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/sharmavijay86/)](https://instagram.com/sharmavijay86) 
    [![Facebook Badge](https://img.shields.io/badge/-sharmavijay86-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/sharmavijay86)](https://www.facebook.com/sharmavijay861)
 
-
+</p>
    
   <p align="center">
     mevijay.com
@@ -59,7 +59,5 @@ Consultent
 <div align="right">
   
 ![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://mevijay.com/)
-[fork my repository](https://github.com/user/repository/fork)
+
 </div>
-
-
