@@ -1,17 +1,28 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/sharmavijay86/sharmavijay86/master/gifs/wave.gif" width="30px"></h4>
 
 I'm [Vijay K.](https://mevijay.com/), an experienced solution architect and consultent in Kubernetes, DevOps,DevsecOps and public cloud. I am a  solution design integrator demonstrated history of working in the information technology and services industry.
+Consultant and architect in Kubernetes, DevOps and public cloud (AWS & Azure). My expertise and area of work is DevOps engineering,Cloud and kubernetes consulting, Product development. I am having 16+ Years of experience in IT. I believe in sharing of knowledge to make IT world better. I am writing blogs on several platform. I am a Corporate trainer on kubernetes and Azure topics.
 
  ---
  
 **Currently I am working as ...**
 
 - <div>
-Solution architect!
+I am working in a very good MNC company. I am playing a role of technical team lead and individual contributor both, within the team. i am part of all major team building activities, to project on-boarding to product development. I am leading technical the group innovation lab as well. Extensive working in kubernetes, openshift devops infra as a code product development project on-boarding and solutioning. Some of my major contributions as solutioning part is to evolve kubernetes as a service product development for both onprem and public cloud.
+I am technically very good in logical designing and solutioning as well as troubleshooting. i have good knowledge in kubernetes, docker terraform ansible, cicd , scm, openshift, virtulization micro-services and public cloud, all three public but extensively in aws and azure.
+You can find few of my git repo at: github.com/sharmavijay86
   </div>
-  
+**Technologies i am working on ...** 
 - <div>
-Consultent
+Operating systems :- Redhat, Ubuntu, Centos, PhotonOS, CoreOS.
+Tools : Docker, Kubernetes, Openshift, GIT, Jenkins, Nagios, GitLab. Services : OpenLdap, DNS, DHCP, nginx, apache, multipath, LVM, network, kernel.
+Software defined storage: Ceph, Gluster, OpenSource CNS (CSI).
+Virtualization : Redhat KVM, VMWare.
+Automation : Unix Shell, Ansible and python.
+IaaC : Terraform, CloudFormation, Azure ARM
+Mail servers : Postfix, Zimbra
+DataBase : MySql,Oracle
+Version control : GIT
   </div> 
 
  ---
